@@ -1,0 +1,5 @@
+outs:
+- md5: 10939a8d25ab3d933f6d33d3cc6ef315
+  size: 3844171
+  hash: md5
+  path: income_evaluation.csv
